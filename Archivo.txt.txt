@@ -1,2 +1,3 @@
 Mi primera línea.
-Otra línea
+Otra línea.
+Se agrega desde el remoto.
